@@ -1,6 +1,5 @@
 [
   "https://doi.org/.*",
-  "https://pythia.org.*",
   "https://eigen.tuxfamily.org.*",
-  "https://imagemagick.org.*"
+  "https://lcginfo.cern.ch.*"
 ]
