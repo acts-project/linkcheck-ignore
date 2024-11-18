@@ -1,5 +1,6 @@
 [
   "https://doi.org/.*",
   "https://eigen.tuxfamily.org.*",
-  "https://lcginfo.cern.ch.*"
+  "https://lcginfo.cern.ch.*",
+  "https://cernvm.cern.ch/fs/.*"
 ]
