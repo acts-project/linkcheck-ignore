@@ -3,5 +3,6 @@
   "https://eigen.tuxfamily.org.*",
   "https://lcginfo.cern.ch.*",
   "https://root.cern.ch.*",
-  "https://cernvm.cern.ch/fs/.*"
+  "https://cernvm.cern.ch/fs/.*",
+  "http://dd4hep.cern.ch.*"
 ]
