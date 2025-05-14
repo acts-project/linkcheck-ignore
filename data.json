@@ -4,5 +4,6 @@
   "https://lcginfo.cern.ch.*",
   "https://root.cern.ch.*",
   "https://cernvm.cern.ch/fs/.*",
-  "http://dd4hep.cern.ch.*"
+  "http://dd4hep.cern.ch.*",
+  "https://www.overleaf.com"
 ]
