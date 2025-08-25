@@ -5,6 +5,5 @@
   "https://root.cern.ch.*",
   "https://cernvm.cern.ch/fs/.*",
   "http://dd4hep.cern.ch.*",
-  "https://www.overleaf.com",
-  "https://imagemagick.org/"
+  "https://pythia.org",
 ]
