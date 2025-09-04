@@ -5,5 +5,5 @@
   "https://root.cern.ch.*",
   "https://cernvm.cern.ch/fs/.*",
   "http://dd4hep.cern.ch.*",
-  "https://pythia.org"
+  "https://clang.llvm.org/.*"
 ]
