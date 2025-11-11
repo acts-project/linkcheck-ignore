@@ -8,5 +8,6 @@
   "https://clang.llvm.org/.*",
   "https://imagemagick.org.*",
   "https://gitlab.kitware.com.*",
-  "https://doxygen.nl.*"
+  "https://doxygen.nl.*",
+  ".*doxygen.org.*"
 ]
