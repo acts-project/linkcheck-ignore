@@ -7,5 +7,6 @@
   "http://dd4hep.cern.ch.*",
   "https://clang.llvm.org/.*",
   "https://imagemagick.org.*",
-  "https://gitlab.kitware.com.*"
+  "https://gitlab.kitware.com.*",
+  "https://doxygen.nl/.*"
 ]
