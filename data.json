@@ -9,5 +9,6 @@
   "https://imagemagick.org.*",
   "https://gitlab.kitware.com.*",
   "https://doxygen.nl.*",
-  ".*doxygen.org.*"
+  ".*doxygen.org.*",
+  "https://pythia.org.*"
 ]
