@@ -10,5 +10,6 @@
   "https://gitlab.kitware.com.*",
   "https://doxygen.nl.*",
   ".*doxygen.org.*",
-  "https://pythia.org.*"
+  "https://pythia.org.*",
+  "https://medium.com/*"
 ]
