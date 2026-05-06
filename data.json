@@ -12,5 +12,6 @@
   ".*doxygen.org.*",
   "https://pythia.org.*",
   "https://medium.com/*",
-  "https://cds.cern.ch/.*"
+  "https://cds.cern.ch/.*",
+  "https://en.cppreference.com/.*"
 ]
