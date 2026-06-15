@@ -13,5 +13,6 @@
   "https://pythia.org.*",
   "https://medium.com/*",
   "https://cds.cern.ch/.*",
-  "https://en.cppreference.com/.*"
+  "https://en.cppreference.com/.*",
+  "https://realpython.com/.*"
 ]
