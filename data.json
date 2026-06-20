@@ -14,5 +14,6 @@
   "https://medium.com/*",
   "https://cds.cern.ch/.*",
   "https://en.cppreference.com/.*",
-  "https://realpython.com/.*"
+  "https://realpython.com/.*",
+  "https://pdg.lbl.gov/2025/reviews/rpp2024-rev-monte-carlo-numbering.pdf"
 ]
